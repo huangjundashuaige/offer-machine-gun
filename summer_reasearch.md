@@ -21,4 +21,4 @@
 4. cmu rissi
 - robotics
 - with funding
-- 
+- December 1 to January 15
